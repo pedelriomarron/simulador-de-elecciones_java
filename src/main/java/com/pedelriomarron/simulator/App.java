@@ -1,7 +1,6 @@
 package com.pedelriomarron.simulator;
 
 import com.pedelriomarron.simulator.classes.*;
-import com.pedelriomarron.simulator.utils.RandomUtils;
 
 import java.util.ArrayList;
 import java.util.List;
